@@ -3,9 +3,9 @@ The purpose for this SQL is to practice on Data Cleaning technique
 This portfolio is refer to [AlexTheAanalyst](https://github.com/AlexTheAnalyst/PortfolioProjects)  
 The techniques included  
 * CONVERT(_datatype_, _expression_)  
-⋅⋅*CAST (_expression_ AS _datatype_)  
-⋅⋅* Inner Join table  
-⋅⋅* Update Table  
+* CAST (_expression_ AS _datatype_)  
+* Inner Join table  
+*Update Table  
 ⋅⋅* Alter Table 
 ⋅⋅* ADD column  
 ⋅⋅* DELETE ROW  
