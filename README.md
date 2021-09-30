@@ -11,11 +11,11 @@ The techniques included
 * DELETE ROW  
 * DROP column  
 * ISNULL(_expression_, _value_)  
-+ return _expression_ if _expression_ NOT NULL, return _value_ if _expression_ IS NULL  
+⋅⋅⋅return _expression_ if _expression_ NOT NULL, return _value_ if _expression_ IS NULL  
 * SUBSTRING(_string_,_start,length_)  
 * CHARINDEX(_substring, string_)  
 * PARSENAME(_objectname,objectpiece_)  
-+ sparated by period  
+⋅⋅⋅ sparated by period  
 *  Replace(_string,oldstring,newstring_)  
 * CASE-WHEN-THEN-ELSE_END  
 *  ROW_NUMBER() OVER ( PARTITION BY _experession1_, _experession2_ ORDER BY _experessionA_)'columnName'
