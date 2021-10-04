@@ -1,4 +1,4 @@
-# DataCleaning_NashvilleHousing
+# DataCleaning_NashvilleHousing - SQL
 The purpose for this SQL is to practice on Data Cleaning technique  
 This portfolio is refer to [AlexTheAanalyst](https://github.com/AlexTheAnalyst/PortfolioProjects)  
 The techniques included  
